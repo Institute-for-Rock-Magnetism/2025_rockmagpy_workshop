@@ -1,4 +1,4 @@
-# 2025_rockmagpy_workshop
+# 2025 `rockmagpy` workshop
 This repository contains material associated with the rock magnetic data processing workshop at the 2025 IRM Conference on Rock Magnetism.
 
 📅 **Thursday, June 12th, 9:00 to 15:30**  
