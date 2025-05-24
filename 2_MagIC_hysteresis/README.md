@@ -50,6 +50,12 @@ This JupyterHub enables you to run PmagPy code without having to install anythin
 
 Once you are on JupyterHub, open the `rockmag_set_up.ipynb` notebook:
 
+<img src="images/rockmag_notebook.png" width="500"/>
+
 By executing cells in this setup notebook, you will install the workshop materials into your JupyterHub. We will now be working in a notebook called `rockmag_data_unpack.ipynb` within the `2_MagIC_hysteresis` folder of the `2025_Rockmagpy_workshop` folder.
 
+<img src="images/workshop_folder.png" width="500"/>
+
 We will use this notebook to inspect a MagIC contribution using `PmagPy` functions and then analyze/visualize hysteresis data using `rockmagpy` functions.
+
+<img src="images/unpack_notebook.png" width="500"/>
