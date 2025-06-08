@@ -4,6 +4,9 @@ This repository contains material associated with the rock magnetic data process
 📅 **Thursday, June 12th, 9:00 to 15:30**  
 📍 **Room 401-20, Tate Hall, 116 Church St SE**
 
+See steps that should be taken prior to the workshop here:
+[pre-workshop set-up steps](https://github.com/Institute-for-Rock-Magnetism/2025_rockmagpy_workshop/blob/main/0_pre-workshop_prep/README.md)
+
 ## 🕘 Workshop schedule
 
 - **9:00 to 9:45 am: `rockmagpy` and MagIC introduction**  
