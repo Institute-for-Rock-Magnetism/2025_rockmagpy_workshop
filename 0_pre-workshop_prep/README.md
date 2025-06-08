@@ -24,9 +24,11 @@ Then click *Log In or Register with ORCID*
 
 <img src="../2_MagIC_hysteresis/images/rockmag_notebook.png" width="500"/>
 
-Note that if you have previously accessed the MagIC JupyterHub, that you need to upload the latest version of this notebook into your main JupyterHub folder: <a href="https://raw.githubusercontent.com/PmagPy/RockmagPy-notebooks/main/rockmag_set_up.ipynb" download>Download the RockmagPy Set-up Notebook (.ipynb)</a>
+*Note that if you have previously accessed the MagIC JupyterHub, that you need to upload the latest version of the rockmagpy set-up notebook into your main JupyterHub folder. To download the notebook go to: https://github.com/PmagPy/RockmagPy-notebooks/blob/main/rockmag_set_up.ipynb and click the download button:*
 
-By following the directions with the setup notebook and executing the cells in this setup notebook, you will install the workshop materials into your JupyterHub. We be working in a notebook called `rockmag_data_unpack.ipynb` within the `2_MagIC_hysteresis` folder of the `2025_Rockmagpy_workshop` folder. As well as with notebooks in the `2025_Rockmagpy_workshop` folder
+<img src="image/notebook_save.png" width="600"/>
+
+5. Follow the directions withing the setup notebook and executing the cells. By doing so you will install the workshop materials into your JupyterHub. We be working in a notebook called `rockmag_data_unpack.ipynb` within the `2_MagIC_hysteresis` folder of the `2025_Rockmagpy_workshop` folder. As well as with notebooks in the `2025_Rockmagpy_workshop` folder
 
 <img src="../2_MagIC_hysteresis/images/workshop_folder.png" width="500"/>
 
