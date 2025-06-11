@@ -13,7 +13,7 @@ See steps that should be taken prior to the workshop here:
   🔍 *Intro to `rockmagpy` and using it with data in MagIC, including Rock Magnetic Bestiary datasets. Tour and interact with content in the [rockmagpy JupyterBook](https://pmagpy.github.io/RockmagPy-notebooks).*
 
 - **9:45 to 10:30 am: Hands-on MagIC upload and data processing**  
-  💻 *Upload hysteresis and backfield data into private MagIC workspace and process using Jupyter notebooks following the steps described in this [document](./2_MagIC_hysteresis/README.md)*
+  💻 *Upload hysteresis loops, backfield data, and more into private MagIC workspace and process using Jupyter notebooks following the steps described in this [document](./2_MagIC_hysteresis/README.md)*
 
 - **10:30 to 11:00 am: ☕ Coffee break**
 

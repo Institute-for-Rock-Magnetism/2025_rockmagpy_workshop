@@ -24,6 +24,10 @@ We will run through [this notebook](https://pmagpy.github.io/RockmagPy-notebooks
 
 8. **Add these Verwey Estimates to the Specimens MagIC Table**: Integrate the estimated Verwey transition temperatures into the MagIC specimens table to enhance the MagIC contribution.
 
+**Extra fun**
+
+Take some of the data from another example that we imported in the previous notebook from MagIC and determine more of the Verwey transitions.
+
 ## 🏔️ [Coercivity Spectra Analysis Notebook](https://pmagpy.github.io/RockmagPy-notebooks/hysteresis_backfield_notebooks/coercivity_unmixing_MaxUnmix.html)
 
 We will also run through [this notebook](https://pmagpy.github.io/RockmagPy-notebooks/hysteresis_backfield_notebooks/coercivity_unmixing_MaxUnmix.html) on JupyterHub that implements the MaxUnMix algorithm for unmixing magnetic coercivity spectra using Python, adapted from the original R-based implementation by Maxbauer et al. (2016).
@@ -40,4 +44,4 @@ We will also run through [this notebook](https://pmagpy.github.io/RockmagPy-note
 
 5. **Error Estimation**: Perform bootstrap resampling to estimate uncertainties in the fitted parameters.
 
-6. **Batch Processing**: Apply the unmixing procedure to multiple datasets in a batch mode that applies the initial guess from one experiment to numerous experimentsexperiments.
+6. **Batch Processing**: Apply the unmixing procedure to multiple datasets in a batch mode that applies the initial guess from one experiment to numerous experiments.
